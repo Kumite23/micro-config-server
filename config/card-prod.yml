@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+card:
+  message: "hi Man!"
+  contact:
+    name: George Boss
+    email: george@boss.hu
+  customerService:
+    - 0630124125
+    - 0630123542
