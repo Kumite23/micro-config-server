@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 account:
-  message: "hi Man!"
+  message: "hi Man, lets do this!"
   contact:
     name: George Boss
     email: george@boss.hu
