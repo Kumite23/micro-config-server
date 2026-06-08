@@ -4,7 +4,7 @@ build:
 account:
   message: "hi Man, lets do this!"
   contact:
-    name: George Boss
+    name: George Bossman
     email: george@boss.hu
   customerService:
     - 0630124125
