@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 account:
-  message: "hi Man, Im a webhook much"
+  message: "hi Man, Im a webhook less"
   contact:
     name: George Bossman
     email: george@boss.hu
