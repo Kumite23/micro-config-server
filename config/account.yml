@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 account:
-  message: "ez már a dockerben webhook"
+  message: "ez már a dockerben webhook ugye?"
   contact:
     name: George
     email: george@george.hu
